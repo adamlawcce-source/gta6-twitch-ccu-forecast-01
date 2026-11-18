@@ -1,6 +1,10 @@
 # GTA VI launch-day Twitch viewers, hour by hour
 
-Entry for make.fun's `gta6-twitch-ccu-forecast-01`: given the first hour's
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/adamlawcce-source/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/adamlawcce-source/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Entry for [make.fun's `gta6-twitch-ccu-forecast-01` bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01): given the first hour's
 Twitch viewer count for the "Grand Theft Auto VI" category on release day
 (2026-11-19 UTC), forecast hours 2-24 as five quantiles each (5%, 25%,
 50%, 75%, 95%).
